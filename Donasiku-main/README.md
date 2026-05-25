@@ -4,12 +4,12 @@ Website donasi sederhana untuk kebutuhan pembelajaran dan pengembangan lokal.
 
 ## Akun Demo
 
-User:
-- Email: `Kyosei@email.com`
-- Password: `12345`
-
 Admin:
-- Email: `Kevin@email.com`
+- Email: `test123@gmail.com`
+- Password: `11223344`
+
+User:
+- Email: `user@email.com`
 - Password: `12345`
 
 ## Cara Menjalankan
